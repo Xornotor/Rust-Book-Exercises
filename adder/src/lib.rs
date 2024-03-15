@@ -1,3 +1,6 @@
+// Developed by Andre Paiva (C) 2024
+// Rust Book-Based Personal Exercises
+
 pub fn add(left: usize, right: usize) -> usize {
     left + right
 }
