@@ -2,4 +2,4 @@
 
 Coding exercises in Rust, did while I read The Rust Book.
 
-Now reading: Chapter 16
+Now reading: Chapter 17
